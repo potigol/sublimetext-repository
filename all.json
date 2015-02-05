@@ -1,0 +1,16 @@
+{
+	"schema_version": "3.0.0",
+	"packages": [
+		{
+			"name": "Potigol Syntax Highlighting",
+			"details": "https://github.com/potigol/SublimeText-Potigol-Syntax",
+			"labels": ["language syntax"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"branch": "master"
+				}
+			]
+		}
+	]
+}
